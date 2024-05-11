@@ -2,10 +2,15 @@ div{
      height: 100px;
      background-color: pink;
      width: 100px;
-     border-width:2px;
+     /* border-width:2px;
      border-style:solid;
-     border-color:brown; 
+     border-color:brown;  */
+    border:2px solid brown;
      text-align:right;
+     border-radius:10px;
+     padding-left:25px;
+     padding-top:25px;
+     margin:50px;
 
 }
 

@@ -1,0 +1,36 @@
+#headingOne{
+    color:rgb(0, 255, 149)
+}
+
+button{
+    color: aqua;
+    background-color: rgb(55, 12, 12);
+}
+
+body{
+    background-color:#ffff00 ;
+}
+
+#headingTwo{
+    color: chocolate;
+}
+
+.myClass {
+    color: white;
+ }
+
+
+ #para{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 1000;
+    font-family: arial;
+    font-size:25px;
+    line-height:normal;
+    text-transform :uppercase;
+ }
+
+ a{
+    text-decoration: none;
+ }
+
